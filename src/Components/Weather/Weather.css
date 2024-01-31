@@ -25,7 +25,7 @@
     font-size: 20px;
     font-weight: 400;
 }
-.search-icon{
+.search-icon1{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,4 +34,50 @@
     background: #ebfffc;
     border-radius: 40px;
     cursor: pointer;
+}
+.weather-image{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.cloud_icon{
+    width: 180px;
+    
+}
+.weather-temp{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 400;
+}
+.weather-location{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+.data-container{
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.element{
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+.data{
+    font-size: 20px;
+    font-weight: 400;
+}
+.text{
+    font-size: 18px;
+    font-weight: 400;
+}
+.icon{
+    margin-top: 8px;
 }
