@@ -80,7 +80,7 @@ const Weather = () => {
           <img src={wicon}  alt='' className='cloud_icon'></img>
         </div>
         <div className='weather-temp'>24℃</div>
-        <div className='weather-location'>Delhi</div>
+        <div className='weather-location'>Mumbai</div>
         <div className='data-container'>
           <div className='element'>
             <img src={humidity_icon} className='icon' alt=''></img>
